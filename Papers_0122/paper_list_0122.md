@@ -31,5 +31,5 @@ Hi everyone, I classified some related works roughly into 5 categories. Hope it 
 
 
 ### Other helpful links
-+ [Visualizing word embeddings through scatter plots using t-SNE] (https://www.mathworks.com/help/textanalytics/examples/visualize-word-embedding-using-text-scatter-plot.html?requestedDomain=true). There is a [tool available](http://projector.tensorflow.org) in TensorFlow as well.
++ [Visualizing word embeddings through scatter plots using t-SNE.](https://www.mathworks.com/help/textanalytics/examples/visualize-word-embedding-using-text-scatter-plot.html?requestedDomain=true) There is a [tool available](http://projector.tensorflow.org) in TensorFlow as well.
 
