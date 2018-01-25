@@ -25,6 +25,9 @@ Hi everyone, I classified some related works roughly into 5 categories. Hope it 
 + Word sense disambiguation: [Making Sense of Word Embeddings](http://www.aclweb.org/anthology/W16-1620) Pelevina et al., 2016.
 + Neural Machine Translation: [Embedding word similarity with NMT](https://arxiv.org/pdf/1412.6448.pdf) Hill et al., 2015.
 
+### Beyond word embeddings
++ [Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases](https://arxiv.org/pdf/1801.00388.pdf) Shalaby et al., 2018.
+
 ### Visualization Techniques
 + [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) Maaten and Hinton, 2008.
 + [Visualizing and Understanding Neural Machine Translation](http://www.aclweb.org/anthology/P17-1106) Ding et al., 2017.
