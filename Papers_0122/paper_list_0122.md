@@ -18,8 +18,8 @@ Hi everyone, I classified some related works roughly into 5 categories. Hope it 
 + [Interpretable probabilistic embeddings: bridging the gap between topic models and neural networks](https://arxiv.org/pdf/1711.04154.pdf) Potapenko et al., 2017.
 
 ### Multiple word embeddings
-+ [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://arxiv.org/abs/1601.03764) Arora et al., 2016.
-+ [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://arxiv.org/abs/1504.06654) Neelakantan et al., 2015.
++ [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://arxiv.org/abs/1601.03764) Arora et al., 2016. (This belongs to 'finding interpretations' category)
++ [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://arxiv.org/abs/1504.06654) Neelakantan et al., 2015. (This is about improving embeddings)
 
 ### Analysis of word-embeddings in the context of some NLP tasks
 + Word sense disambiguation: [Making Sense of Word Embeddings](http://www.aclweb.org/anthology/W16-1620) Pelevina et al., 2016.
