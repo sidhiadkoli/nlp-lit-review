@@ -27,8 +27,6 @@ Hi everyone, I classified some related works roughly into 5 categories. Hope it 
 
 ### Beyond word embeddings
 + [Beyond Word Embeddings: Learning Entity and Concept Representations from Large Scale Knowledge Bases](https://arxiv.org/pdf/1801.00388.pdf) Shalaby et al., 2018.
-+ [Compressing Word Embeddings](https://arxiv.org/pdf/1511.06397.pdf) Martin Andrews, 2016
-
 
 ### Visualization Techniques
 + [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) Maaten and Hinton, 2008.
@@ -37,4 +35,8 @@ Hi everyone, I classified some related works roughly into 5 categories. Hope it 
 
 ### Other helpful links
 + [Visualizing word embeddings through scatter plots using t-SNE.](https://www.mathworks.com/help/textanalytics/examples/visualize-word-embedding-using-text-scatter-plot.html?requestedDomain=true) There is a [tool available](http://projector.tensorflow.org) in TensorFlow as well.
+
+### Compressing Word Embeddings
++ [Compressing Word Embeddings](https://arxiv.org/pdf/1511.06397.pdf) Martin Andrews, 2016
+
 
